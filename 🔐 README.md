@@ -281,4 +281,4 @@ If you have questions or need help:
 
 ---
 
-Made with ❤️ for learning Python programming!
+A small project created to explore Python's standard libraries.

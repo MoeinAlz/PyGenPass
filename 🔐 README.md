@@ -139,7 +139,7 @@ characters += "!@#$%^&*()_+-=[]{}|;:,.<>?"  # Add more symbols
 ### Change File Name
 Modify line 77:
 ```python
-open('my_passwords.txt', 'w').write('\n'.join(passwords))
+open('my_passwords.txt', 'a').write('\n'.join(passwords))
 ```
 
 ---
